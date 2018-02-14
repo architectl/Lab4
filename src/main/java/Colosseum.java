@@ -35,6 +35,7 @@ public class Colosseum {
      * Useful functions: next(), nextInt() .
      */
     static Scanner myScan;
+    myScan= new Scanner(System.in );
 
     /**
      * How we will build our Pokemon to battle.
